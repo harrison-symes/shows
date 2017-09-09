@@ -1,0 +1,19 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: red;
+    font-family: arial;
+    text-align: center;
+}
+ul {color: red
+font-family: comic;
+text-align: left;
+font-size: 50px;}
+h2 { color: green;
+text-align: center;}
+p {
+    font-family: verdana;
+    font-size: 50px;
+}
